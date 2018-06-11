@@ -1,0 +1,5 @@
+Hello world shwetabh dixit here, this is for an internship at Rolta India.
+Hello earth
+Hello India
+this is a program to write to hdfs
+i hope it works
