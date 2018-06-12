@@ -1,0 +1,22 @@
+hadoop jar C:/Users/shwetabh.dixit/Desktop/important/writetoHDFS.jar writing.writetohdfs D:/hello.txt /data2/file.txt
+
+
+
+ERROR : D:/logfiles/logs..txt
+
+
+hadoop jar C:/Users/shwetabh.dixit/Desktop/important/writetoHDFS.jar writing.writetohdfs D:/hell.txt /data2/fe.txt
+
+
+
+
+hadoop jar C:/Users/shwetabh.dixit/Desktop/tutorial.jar tutorial.mains /data2/file.txt
+
+
+
+
+
+ERROR: D:/tests.txt
+
+hadoop jar C:/Users/shwetabh.dixit/Desktop/tutorial.jar tutorial.mains /data2/feo.txt
+
